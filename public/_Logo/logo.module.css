@@ -1,0 +1,8 @@
+.container{
+    height: 66px;
+    width: 250px;
+    background-image: url("../../assets/logo_prozza.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}

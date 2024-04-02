@@ -1,0 +1,11 @@
+.container{
+    padding: 10px 15px;
+    width: 40%;
+    border-radius: 25px;
+    background-color: #B66317;
+    color: var(--branco-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: var(--Headings-XXS);
+}
